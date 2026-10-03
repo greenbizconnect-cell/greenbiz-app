@@ -1,3 +1,3 @@
 self.addEventListener('fetch', function(event) {
-  // Basic Service Worker for PWA
+  // Greenbiz PWA Service Worker
 });
